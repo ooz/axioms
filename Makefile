@@ -1,9 +1,18 @@
 .PHONY: all help newpost openlatest update \
 install_pipenv init test deploy \
-clean clean_coverage
+clean clean_coverage \
+todo wip
 
 all: ## Build the site, generate all pages from *.md files
 	pipenv run python gg.py ./
+
+wip: ## Post list of OZWIP or TODOs
+	grep --exclude Makefile -rin "OZWIP" ./
+	grep --exclude Makefile -rin "TODO" ./
+
+todo: ## Post list of OZWIP or TODOs
+	grep --exclude Makefile -rin "OZWIP" ./
+	grep --exclude Makefile -rin "TODO" ./
 
 help: ## Show this help
 	@grep -Eh '\s##\s' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
