@@ -1,18 +1,28 @@
 ---
 title: Axioms for Humans
 author: Oliver Z.
+---
+
+<!--
 idea space: 2005-2007, 2010-2014+
 started writing: 2018-03-15 21:06
 continued writing: 2022-03-08
----
-
-# Axioms for Humans
+-->
 
 *Axioms - Things assumed true, being consistent and complementary*
 
+## OZWIP Index
+
+This work is *work in progress*, you may notice some rough edges, incomplete thoughts, reasoning and examples:
+
+* [On Being Alive](on-being-alive.html)
+* [On Reality](on-reality.html)
+* [On Money](on-money.html)
+* [On Mathematics](on-mathematics.html)
+
 ## Executive Summary
 
-One love, stop hate!
+One love, reduce hate!
 
 When you've understood the above:
 Get back to work and let us live forever!
@@ -23,15 +33,6 @@ I hope, it helps!
 To my best humble ability and knowledge.
 
 *-OZ*
-
-## OZWIP Index
-
-This work is *work in progress*, you may notice some rough edges, incomplete thoughts, reasoning and examples:
-
-* [On Being Alive](on-being-alive.html)
-* [On Reality](on-reality.html)
-* [On Money](on-money.html)
-* [On Mathematics](on-mathematics.html)
 
 ## Disclaimer and Feedback
 
@@ -47,5 +48,4 @@ axioms at oliz dot io
 ```
 
 (replace `at` with `@`, `dot` with `.` and remove all spaces)
-
 
