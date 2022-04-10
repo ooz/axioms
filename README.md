@@ -24,17 +24,14 @@ To my best humble ability and knowledge.
 
 *-OZ*
 
-## Index
+## OZWIP Index
 
-* on_reality.md
-  - on_being_alive.md
+This work is *work in progress*, you may notice some rough edges, incomplete thoughts, reasoning and examples:
 
-<!-- - on_god.md -->
-
-* on_language.md
-  - on_mathematics.md
-
-* on_money.md
+* [On Being Alive](on-being-alive.html)
+* [On Reality](on-reality.html)
+* [On Money](on-money.html)
+* [On Mathematics](on-mathematics.html)
 
 ## Disclaimer and Feedback
 
