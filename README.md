@@ -29,7 +29,6 @@ Get back to work and let us live forever!
 
 If you aren't there, yet, you may want to read the rest.
 
-I hope, it helps!
 To my best humble ability and knowledge.
 
 *-OZ*
