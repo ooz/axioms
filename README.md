@@ -19,12 +19,9 @@ Writing is *work in progress*, you may notice some rough edges, incomplete thoug
 * [On Reality](on-reality.html)
 * [On Money](on-money.html)
 * [On Mathematics](on-mathematics.html)
-
 * [How to Teleport](how-to-teleport/)
 
-To my best humble ability and knowledge.
-
-*-OZ*
+*To my best humble ability and knowledge. -OZ*
 
 ## Disclaimer and Feedback
 
