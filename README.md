@@ -13,21 +13,14 @@ continued writing: 2022-03-08
 
 ## OZWIP Index
 
-This work is *work in progress*, you may notice some rough edges, incomplete thoughts, reasoning and examples:
+Writing is *work in progress*, you may notice some rough edges, incomplete thoughts, reasoning and examples:
 
 * [On Being Alive](on-being-alive.html)
 * [On Reality](on-reality.html)
 * [On Money](on-money.html)
 * [On Mathematics](on-mathematics.html)
 
-## Executive Summary
-
-One love, reduce hate!
-
-When you've understood the above:
-Get back to work and let us live forever!
-
-If you aren't there, yet, you may want to read the rest.
+* [How to Teleport](how-to-teleport/)
 
 To my best humble ability and knowledge.
 
