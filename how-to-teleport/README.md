@@ -82,11 +82,11 @@ But what if teleportation would be possible, but some would just not use it?
 
 |teleportation|walking|
 |---|---|
-|7:00 Breakfast|7:00 Leave home, walk to work|
+|7:00 Breakfast|7:00 Leave home, walk to work, get breakfast on way|
 |7:45 Teleport to work|7:45 Arrive at work|
 |---|---|
 |16:30 To gym|16:30 Fetch friend, walk home|
-|17:30 To home, with friend|17:30 Arrive home|
+|17:30 To home, friend teleports over|17:30 Arrive home|
 
 Both schedules with and without ("walking") teleportation result in the same outcome:
 
@@ -103,8 +103,7 @@ What "hacks" were used to achieve the same result without teleportation, just wa
 
 Walk a short distance, maybe a home where every step is conscious and desired.
 
-* Moving the body is faster than transferring the data
-* Moving consciously is faster than teleportation
+Here we learned that moving the body (best storage medium for human data) is faster than transferring data (keyword "FedEx bandwidth"). Thus moving consciously and desiring most steps on the way is "faster" than teleportation achieved through technology.
 
 ## Common Concerns / FAQ
 
