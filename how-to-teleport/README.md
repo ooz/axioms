@@ -1,7 +1,6 @@
 ---
 title: How to Teleport
 date: 2022-04-12T06:32:07Z
-tags: __draft__
 ---
 
 *Based on a talk I gave on multiple occurrences from 2018 to 2019.*
