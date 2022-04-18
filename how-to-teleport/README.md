@@ -107,17 +107,13 @@ Here we learned that moving the body (best storage medium for human data) is fas
 
 ## Common Concerns / FAQ
 
-### But but ... how about space?
-
-![opals laser](opals_laser.jpg) <!-- .element style="border: none; background: none; width: 30%;" -->
+### But but ... how about space? Doesn't it make teleportation easier?
 
 * [Nope! Because Shannon's limit!](https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem) <!-- .element: class="fragment" -->
 * Project "Laser Light Communications": 100 Gbit/s, ~ 0.0125 TB/s (in development) <!-- .element: class="fragment" -->
-
-Note: MAREA has 1600 times the bandwidth!
+* MAREA has 1600 times the bandwidth!
 
 ### But I'd still like a serialized copy of my body as a backup!
 
 * Body is adapted to current times
 * "Saving the body" results in suboptimal adaption. Think you skipped a pandemic: you might get very sick/die after de-serialization! Think of long-term prison inmates released to the modern world -- they are having trouble fitting in again.
-
