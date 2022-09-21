@@ -39,15 +39,17 @@ OZWIP
 
 --> ideas and knowledge search as a mean of automation similar to tools
 
-## OZWIP Profit, Automation and Monopoly
+## Profit, Automation and Monopoly
 
 Profit is the sum of what customers pay too much and what owners pay employees too little.
+Machines and automated work do not get paid, only humans are paid.
+In competitive markets little profit is to be made. Thus the goal is to reach monopoly status (see Peter Thiel's "0 to 1").
+Technological monopolies can ask money for machine work.
 
 OZWIP Explanation
 
 ## OZWIP TODO
 
-* You don't pay a machine
 * Different values of human time explained
 * Supply and Demand explained
 * "Distance" explained
